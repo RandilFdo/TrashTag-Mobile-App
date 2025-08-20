@@ -21,7 +21,7 @@ Your TrashTag Lanka app is now **COMPLETE** with full core functionality:
 | 🏆 **Challenges & Rewards** | ✅ Complete | Weekly challenges, leaderboards, badges |
 | 🎨 **Beautiful UI/UX** | ✅ Complete | Snapchat-inspired design with smooth transitions |
 
-## 📱 **App Screenshots & Flow**
+## 📱 **Flow**
 
 ### **Onboarding Journey:**
 1. **Splash Screen** - App logo with 5-second timer
@@ -37,7 +37,7 @@ Your TrashTag Lanka app is now **COMPLETE** with full core functionality:
 - **🏆 Challenges** - Weekly goals and leaderboards
 - **👤 Profile** - User stats and achievements
 
-## 🛠️ **Technical Stack**
+## 🛠️ **Tech Stack**
 
 - **Frontend:** React Native + Expo
 - **Navigation:** React Navigation + Expo Router
@@ -69,46 +69,6 @@ npx expo start
 
 **📖 See [INSTALLATION.md](./INSTALLATION.md) for detailed setup instructions**
 
-## 🎯 **Key User Journeys**
-
-### **New User Experience:**
-1. **Download & Open** → Beautiful splash screen
-2. **Learn About App** → Engaging intro slides
-3. **Quick Sign Up** → Simple email or Google login
-4. **Profile Setup** → Quick personalization
-5. **Start Cleaning** → Full app access
-
-### **Daily Usage:**
-1. **Take Photos** → Before/after cleanup shots
-2. **Create Posts** → Share your impact with community
-3. **Explore Map** → See other cleanup locations
-4. **Complete Challenges** → Earn points and badges
-5. **Check Leaderboard** → Compete with friends
-
-## 🌟 **Unique Features**
-
-### **🎯 Before/After Photography**
-- **Dual Photo System** - Capture mess and transformation
-- **Location Tagging** - Automatic GPS coordinates
-- **Progress Tracking** - Visual impact measurement
-
-### **🏆 Gamification**
-- **Weekly Challenges** - Daily, weekly, monthly goals
-- **Point System** - Earn points for cleanups
-- **Achievement Badges** - Unlock special rewards
-- **Leaderboards** - Compete with community
-
-### **🗺️ Interactive Mapping**
-- **Real-time Locations** - See where others are cleaning
-- **Filter System** - Beach, park, street, forest categories
-- **Statistics Dashboard** - Track community impact
-- **Location Callouts** - View cleanup details
-
-### **👥 Social Features**
-- **Community Feed** - Share and inspire others
-- **Like & Comment** - Engage with cleanup posts
-- **User Profiles** - Showcase individual impact
-- **Crew System** - Team up with friends
 
 ## 🎨 **Design Philosophy**
 
@@ -118,12 +78,6 @@ npx expo start
 - **Smooth Transitions** - Seamless screen navigation
 - **Dark Theme** - Easy on eyes, modern look
 - **Yellow Accents** - Brand color for highlights
-
-### **User Experience:**
-- **Quick Actions** - Minimal clicks to achieve goals
-- **Visual Feedback** - Clear progress indicators
-- **Intuitive Navigation** - Easy to find features
-- **Responsive Design** - Works on all screen sizes
 
 ## 🚀 **Getting Started**
 
@@ -183,37 +137,7 @@ npx expo start
 - **Community Building** - Active user base
 - **Behavioral Change** - Long-term cleanup habits
 
-## 🎉 **Success Stories**
-
-### **User Testimonials:**
-> *"TrashTag made cleaning up fun! I've cleaned 15 beach areas this month."* - Sarah M.
-
-> *"The challenges keep me motivated. I'm now a Gold Cleaner!"* - Raj K.
-
-> *"Seeing the map fill up with cleanup locations is so inspiring."* - Lakshmi P.
-
-## 📄 **License & Legal**
-
-- **Open Source** - MIT License
-- **Privacy First** - GDPR compliant
-- **Data Security** - Enterprise-grade protection
-- **Community Driven** - Built for the people
-
----
-
-## 🌟 **Ready to Make a Difference?**
-
-Your TrashTag Lanka app is now **100% functional** and ready to:
-
-✅ **Inspire environmental action**
-✅ **Build community engagement**  
-✅ **Track real impact**
-✅ **Gamify cleanup efforts**
-✅ **Transform Sri Lanka**
-
 **Start cleaning, start sharing, start inspiring! 🌱♻️**
-
----
 
 *Built with ❤️ for a cleaner, greener Sri Lanka*
 "# TrashTag-Mobile-App" 
